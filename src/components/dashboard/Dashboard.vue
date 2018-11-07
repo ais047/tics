@@ -29,7 +29,7 @@ import DashboardInfoWidgets from './DashboardInfoWidgets'
 import UsersMembersTab from './users-and-members-tab/UsersMembersTab.vue'
 import DataVisualisationTab from './data-visualisation-tab/DataVisualisation.vue'
 import DashboardBottomWidgets from './DashboardBottomWidgets.vue'
-import OverwatchHeroes from './OverwatchHeroes/OverwatchHeroes.vue'
+import OverwatchHeroes from '../OverwatchHeroes/OverwatchHeroes.vue'
 
 export default {
   name: 'dashboard',
