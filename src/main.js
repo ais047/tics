@@ -12,9 +12,19 @@ import router from './router'
 import VuesticPlugin from '@/vuestic-theme/vuestic-plugin'
 import './i18n'
 import YmapPlugin from 'vue-yandex-maps'
+import VueFirestore from 'vue-firestore'
+import BootstrapVue from 'bootstrap-vue'
+/* eslint-disable-next-line */
+import init from './firebaseInit'
+// eslint workaround
+let d = init
+d = null
+console.log(d, 'Firebase init ignore')
 
 Vue.use(VuesticPlugin)
 Vue.use(YmapPlugin)
+Vue.use(VueFirestore)
+Vue.use(BootstrapVue)
 
 // NOTE: workaround for VeeValidate + vuetable-2
 Vue.use(VeeValidate, { fieldsBagName: 'formFields' })

@@ -1,13 +1,16 @@
 <template>
   <div class="users-members-tab dashboard-tab">
     <div class="row">
+      <div class="col-md-4 d-flex">
+        Pics
+      </div>
       <div class="col-md-3 d-flex justify-content-center align-items-center">
         <vuestic-profile-card :name="'Veronique Lee'" :location="'Malaga, Spain'" photoSource="https://i.imgur.com/NLrdqsk.png"
                               :social="{twitter: 'twitter.com', facebook: 'facebook.com',
                                   instagram: 'instagram.com'}">
         </vuestic-profile-card>
       </div>
-      <div class="col-md-9 d-flex">
+      <div class="col-md-5 d-flex">
         <vuestic-chat v-model="chatMessages"></vuestic-chat>
       </div>
     </div>

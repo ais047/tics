@@ -10,7 +10,7 @@ export default {
   props: {
     isOpen: {
       type: Boolean,
-      required: true
+      required: false
     },
   }
 }

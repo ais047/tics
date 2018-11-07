@@ -74,8 +74,8 @@ export default new Router({
       ]
     },
     {
-      name: 'Admin',
-      path: '/admin',
+      name: 'User',
+      path: '/user',
       component: AppLayout,
       children: [
         {

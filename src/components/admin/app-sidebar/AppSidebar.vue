@@ -1,5 +1,5 @@
 <template>
-  <vuestic-sidebar :hidden="isOpen">
+  <vuestic-sidebar :hidden="!isOpen">
     <template slot="menu">
       <sidebar-link
         :to="{ name: 'dashboard' }">
@@ -259,7 +259,7 @@ export default {
   props: {
     isOpen: {
       type: Boolean,
-      required: true
+      required: false
     }
   }
 }
