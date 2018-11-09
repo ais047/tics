@@ -1,6 +1,334 @@
 // Removed because does not support https.
 @import "icon-fonts/icon-fonts";
 
+//Overwatch Fulls and icons
+.i-ana-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Ana.png') no-repeat center center;
+}
+.i-ana-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Ana.png') no-repeat center center;
+}
+.i-ashe-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Ashe.png') no-repeat center center;
+}
+.i-ashe-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Ashe.png') no-repeat center center;
+}
+.i-bastion-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Bastion.png') no-repeat center center;
+}
+.i-bastion-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Bastion.png') no-repeat center center;
+}
+.i-brigitte-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Brigitte.png') no-repeat center center;
+}
+.i-brigitte-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Brigitte.png') no-repeat center center;
+}
+.i-doomfist-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Doomfist.png') no-repeat center center;
+}
+.i-doomfist-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Doomfist.png') no-repeat center center;
+}
+.i-dva-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Dva.png') no-repeat center center;
+}
+.i-dva-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Dva.png') no-repeat center center;
+}
+.i-genji-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Genji.png') no-repeat center center;
+}
+.i-genji-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Genji.png') no-repeat center center;
+}
+.i-hanzo-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Hanzo.png') no-repeat center center;
+}
+.i-hanzo-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Hanzo.png') no-repeat center center;
+}
+.i-junkrat-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Junkrat.png') no-repeat center center;
+}
+.i-junkrat-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Junkrat.png') no-repeat center center;
+}
+.i-lucio-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Lucio.png') no-repeat center center;
+}
+.i-lucio-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Lucio.png') no-repeat center center;
+}
+.i-mccree-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Mccree.png') no-repeat center center;
+}
+.i-mccree-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Mccree.png') no-repeat center center;
+}
+.i-mei-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Mei.png') no-repeat center center;
+}
+.i-mei-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Mei.png') no-repeat center center;
+}
+.i-mercy-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Mercy.png') no-repeat center center;
+}
+.i-mercy-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Mercy.png') no-repeat center center;
+}
+.i-moira-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Moira.png') no-repeat center center;
+}
+.i-moira-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Moira.png') no-repeat center center;
+}
+.i-orisa-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Orisa.png') no-repeat center center;
+}
+.i-orisa-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Orisa.png') no-repeat center center;
+}
+.i-pharah-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Pharah.png') no-repeat center center;
+}
+.i-pharah-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Pharah.png') no-repeat center center;
+}
+.i-reaper-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Reaper.png') no-repeat center center;
+}
+.i-reaper-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Reaper.png') no-repeat center center;
+}
+.i-soldier76-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Soldier76.png') no-repeat center center;
+}
+.i-soldier76-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Soldier76.png') no-repeat center center;
+}
+.i-sombra-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Sombra.png') no-repeat center center;
+}
+.i-sombra-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Sombra.png') no-repeat center center;
+}
+.i-symmetra-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Symmetra.png') no-repeat center center;
+}
+.i-symmetra-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Symmetra.png') no-repeat center center;
+}
+.i-torbjorn-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Torbjorn.png') no-repeat center center;
+}
+.i-torbjorn-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Torbjorn.png') no-repeat center center;
+}
+.i-tracer-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Tracer.png') no-repeat center center;
+}
+.i-tracer-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Tracer.png') no-repeat center center;
+}
+.i-widowmaker-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Widowmaker.png') no-repeat center center;
+}
+.i-widowmaker-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Widowmaker.png') no-repeat center center;
+}
+.i-winston-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Winston.png') no-repeat center center;
+}
+.i-winston-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Winston.png') no-repeat center center;
+}
+.i-wreckingball-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/WreckingBall.png') no-repeat center center;
+}
+.i-wreckingball-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/WreckingBall.png') no-repeat center center;
+}
+.i-zarya-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Zarya.png') no-repeat center center;
+}
+.i-zarya-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Zarya.png') no-repeat center center;
+}
+.i-zenyatta-full {
+  display: inline-block;
+  height: 164px;
+  width: 164px;
+  background: url('assets/overwatch/Zenyatta.png') no-repeat center center;
+}
+.i-zenyatta-icon {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+  background: url('assets/overwatchicons/Zenyatta.png') no-repeat center center;
+}
+
+//Defaults
+
 .i-nav-notification {
   display: inline-block;
   height: 32px;

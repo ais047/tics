@@ -1,0 +1,222 @@
+{
+    "Heroes": {
+        "Ana": {
+            "Name": "Ana",
+            "Role": "Support",
+            "FullLink": "i-ana-full",
+            "IconLink": "i-ana-icon",
+            "Live": true
+        },
+        "Ashe" : {
+            "Name": "Ashe",
+            "Role": "Damage",
+            "FullLink": "i-ashe-full",
+            "IconLink": "i-ashe-icon",
+            "Live": false
+        },
+        "Bastion": {
+            "Name": "Bastion",
+            "Role": "Damage",
+            "FullLink": "i-bastion-full",
+            "IconLink": "i-bastion-icon",
+            "Live": true
+        },
+        "Brigitte": {
+            "Name": "Brigitte",
+            "Role": "Support",
+            "FullLink": "i-brigitte-full",
+            "IconLink": "i-brigitte-icon",
+            "Live": true
+        },
+        "Doomfist": {
+            "Name": "Doomfist",
+            "Role": "Damage",
+            "FullLink": "i-doomfist-full",
+            "IconLink": "i-doomfist-icon",
+            "Live": true
+        },
+        "Dva": {
+            "Name": "D.Va",
+            "Role": "Tank",
+            "FullLink": "i-dva-full",
+            "IconLink": "i-dva-icon",
+            "Live": true
+        },
+        "Genji": {
+            "Name": "Genji",
+            "Role": "Damage",
+            "FullLink": "i-genji-full",
+            "IconLink": "i-genji-icon",
+            "Live": true
+        },
+        "Hanzo": {
+            "Name": "Hanzo",
+            "Role": "Damage",
+            "FullLink": "i-hanzo-full",
+            "IconLink": "i-hanzo-icon",
+            "Live": true
+        },
+        "Junkrat": {
+            "Name": "Junkrat",
+            "Role": "Damage",
+            "FullLink": "i-junkrat-full",
+            "IconLink": "i-junkrat-icon",
+            "Live": true
+        },
+        "Lucio": {
+            "Name": "Lucio",
+            "Role": "Support",
+            "FullLink": "i-lucio-full",
+            "IconLink": "i-lucio-icon",
+            "Live": true
+        },
+        "Mccree": {
+            "Name": "Mccree",
+            "Role": "Damage",
+            "FullLink": "i-mccree-full",
+            "IconLink": "i-mccree-icon",
+            "Live": true
+        },
+        "Mei": {
+            "Name": "Mei",
+            "Role": "Damage",
+            "FullLink": "i-mei-full",
+            "IconLink": "i-mei-icon",
+            "Live": true
+        },
+        "Mercy": {
+            "Name": "Mercy",
+            "Role": "Support",
+            "FullLink": "i-mercy-full",
+            "IconLink": "i-mercy-icon",
+            "Live": true
+        },
+        "Moira": {
+            "Name": "Moira",
+            "Role": "Support",
+            "FullLink": "i-moira-full",
+            "IconLink": "i-moira-icon",
+            "Live": true
+        },
+        "Orisa": {
+            "Name": "Orisa",
+            "Role": "Tank",
+            "FullLink": "i-orisa-full",
+            "IconLink": "i-orisa-icon",
+            "Live": true
+        },
+        "Pharah": {
+            "Name": "Pharah",
+            "Role": "Damage",
+            "FullLink": "i-pharah-full",
+            "IconLink": "i-pharah-icon",
+            "Live": true
+        },
+        "Reaper": {
+            "Name": "Reaper",
+            "Role": "Damage",
+            "FullLink": "i-reaper-full",
+            "IconLink": "i-reaper-icon",
+            "Live": true
+        },
+        "Soldier76": {
+            "Name": "Soldier: 76",
+            "Role": "Damage",
+            "FullLink": "i-soldier76-full",
+            "IconLink": "i-soldier76-icon",
+            "Live": true
+        },
+        "Sombra": {
+            "Name": "Sombra",
+            "Role": "Damage",
+            "FullLink": "i-sombra-full",
+            "IconLink": "i-sombra-icon",
+            "Live": true
+        },
+        "Symmetra": {
+            "Name": "Symmetra",
+            "Role": "Damage",
+            "FullLink": "i-symmetra-full",
+            "IconLink": "i-symmetra-icon",
+            "Live": true
+        },
+        "Torbjorn": {
+            "Name": "Torbjörn",
+            "Role": "Damage",
+            "FullLink": "i-torbjorn-full",
+            "IconLink": "i-torbjorn-icon",
+            "Live": true
+        },
+        "Tracer": {
+            "Name": "Tracer",
+            "Role": "Damage",
+            "FullLink": "i-tracer-full",
+            "IconLink": "i-tracer-icon",
+            "Live": true
+        },
+        "Widowmaker": {
+            "Name": "Widowmaker",
+            "Role": "Damage",
+            "FullLink": "i-widowmaker-full",
+            "IconLink": "i-widowmaker-icon",
+            "Live": true
+        },
+        "Winston": {
+            "Name": "Winston",
+            "Role": "Tank",
+            "FullLink": "i-winston-full",
+            "IconLink": "i-winston-icon",
+            "Live": true
+        },
+        "WreckingBall": {
+            "Name": "Wrecking Ball",
+            "Role": "Tank",
+            "FullLink": "i-wreckingball-full",
+            "IconLink": "i-wreckingball-icon",
+            "Live": true
+        },
+        "Zarya": {
+            "Name": "Zarya",
+            "Role": "Tank",
+            "FullLink": "i-zarya-full",
+            "IconLink": "i-zarya-icon",
+            "Live": true
+        },
+        "Zenyatta": {
+            "Name": "Zenyatta",
+            "Role": "Support",
+            "FullLink": "i-zenyatta-full",
+            "IconLink": "i-zenyatta-icon",
+            "Live": true
+        }
+    },
+    "HeroesArr": [
+        "Ana",
+        "Ashe",
+        "Bastion",
+        "Brigitte",
+        "Doomfist",
+        "Dva",
+        "Genji",
+        "Hanzo",
+        "Junkrat",
+        "Lucio",
+        "Mccree",
+        "Mei",
+        "Mercy",
+        "Moira",
+        "Orisa",
+        "Pharah",
+        "Reaper",
+        "Soldier76",
+        "Sombra",
+        "Symmetra",
+        "Torbjorn",
+        "Tracer",
+        "Widowmaker",
+        "Winston",
+        "WreckingBall",
+        "Zarya",
+        "Zenyatta"
+    ]
+}

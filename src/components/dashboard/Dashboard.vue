@@ -5,13 +5,13 @@
 
     <vuestic-widget class="no-padding no-v-padding">
       <vuestic-tabs
-        :names="[$t('dashboard.usersAndMembers'), 'Overwatch Heroes', $t('dashboard.dataVisualization')]"
+        :names="['Overwatch Heroes',  $t('dashboard.usersAndMembers'), $t('dashboard.dataVisualization')]"
         ref="tabs">
-        <div :slot="$t('dashboard.usersAndMembers')">
-          <users-members-tab></users-members-tab>
-        </div>
         <div :slot="'Overwatch Heroes'">
           <overwatch-heroes></overwatch-heroes>
+        </div>
+        <div :slot="$t('dashboard.usersAndMembers')">
+          <users-members-tab></users-members-tab>
         </div>
         <div :slot="$t('dashboard.dataVisualization')">
           <data-visualisation-tab></data-visualisation-tab>
